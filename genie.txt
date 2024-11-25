@@ -1,0 +1,9 @@
+La norme garantie un fonctionnement minimum et surtout un minimum de sécurité dans le fonctionnement. La norme a un caractère légal. Un standard prétend répondre à un cahier des charges établi par l'auteur du standard, mais n'en garantie pas forcément la bonne application, ou l'application complète
+
+
+Donc en cycle en V, le produit ne sera peut-être pas livrable à la fin du cycle alors qu'en Scrum, le fait de faire intervenir à chaque fois le client permet de livrer un produit qui aura déjà subi de nombreuses modifications et qui sera livrable.
+
+
+
+
+
